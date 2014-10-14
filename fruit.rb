@@ -1,4 +1,3 @@
 class Fruit
-
-  
+  raise
 end
