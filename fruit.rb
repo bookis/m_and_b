@@ -1,3 +1,5 @@
 class Fruit
-  raise
+  def make_fruit
+    puts "make fruit"
+  end
 end
